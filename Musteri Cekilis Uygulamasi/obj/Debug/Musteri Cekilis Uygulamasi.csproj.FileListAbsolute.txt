@@ -1,0 +1,12 @@
+C:\Users\musta\Desktop\C #\Musteri Cekilis Uygulamasi\Musteri Cekilis Uygulamasi\bin\Debug\Musteri Cekilis Uygulamasi.exe.config
+C:\Users\musta\Desktop\C #\Musteri Cekilis Uygulamasi\Musteri Cekilis Uygulamasi\bin\Debug\Musteri Cekilis Uygulamasi.exe
+C:\Users\musta\Desktop\C #\Musteri Cekilis Uygulamasi\Musteri Cekilis Uygulamasi\bin\Debug\Musteri Cekilis Uygulamasi.pdb
+C:\Users\musta\Desktop\C #\Musteri Cekilis Uygulamasi\Musteri Cekilis Uygulamasi\obj\Debug\Musteri Cekilis Uygulamasi.csproj.AssemblyReference.cache
+C:\Users\musta\Desktop\C #\Musteri Cekilis Uygulamasi\Musteri Cekilis Uygulamasi\obj\Debug\Musteri_Cekilis_Uygulamasi.Form1.resources
+C:\Users\musta\Desktop\C #\Musteri Cekilis Uygulamasi\Musteri Cekilis Uygulamasi\obj\Debug\Musteri_Cekilis_Uygulamasi.Properties.Resources.resources
+C:\Users\musta\Desktop\C #\Musteri Cekilis Uygulamasi\Musteri Cekilis Uygulamasi\obj\Debug\Musteri_Cekilis_Uygulamasi.UserEnter.resources
+C:\Users\musta\Desktop\C #\Musteri Cekilis Uygulamasi\Musteri Cekilis Uygulamasi\obj\Debug\Musteri Cekilis Uygulamasi.csproj.GenerateResource.cache
+C:\Users\musta\Desktop\C #\Musteri Cekilis Uygulamasi\Musteri Cekilis Uygulamasi\obj\Debug\Musteri Cekilis Uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\musta\Desktop\C #\Musteri Cekilis Uygulamasi\Musteri Cekilis Uygulamasi\obj\Debug\Musteri Cekilis Uygulamasi.exe
+C:\Users\musta\Desktop\C #\Musteri Cekilis Uygulamasi\Musteri Cekilis Uygulamasi\obj\Debug\Musteri Cekilis Uygulamasi.pdb
+C:\Users\musta\Desktop\C #\Musteri Cekilis Uygulamasi\Musteri Cekilis Uygulamasi\obj\Debug\Musteri_Cekilis_Uygulamasi.Hediye.resources
